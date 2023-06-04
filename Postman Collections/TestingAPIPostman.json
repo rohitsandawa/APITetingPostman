@@ -7,7 +7,7 @@
 	"item": [
 		{
 			"name": "CreateToken",
-			"_postman_id": "a2fd616d-9ddb-432d-b13d-6d4fa8e14461",
+			"id": "a2fd616d-9ddb-432d-b13d-6d4fa8e14461",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "StatusofBooks",
-			"_postman_id": "a18e960b-759a-4808-a121-c8b84613ee90",
+			"id": "a18e960b-759a-4808-a121-c8b84613ee90",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "ListOfBooks",
-			"_postman_id": "792efc6d-0a6f-4dc7-a708-5d3570dd426f",
+			"id": "792efc6d-0a6f-4dc7-a708-5d3570dd426f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -55,7 +55,7 @@
 		},
 		{
 			"name": "GetaSingleBook",
-			"_postman_id": "08d17fa2-b0b9-47b8-b858-ec39fe4914ae",
+			"id": "08d17fa2-b0b9-47b8-b858-ec39fe4914ae",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -95,7 +95,7 @@
 					}
 				}
 			],
-			"_postman_id": "c35b7ba1-5a78-4a2f-aa21-86f869640fe4",
+			"id": "c35b7ba1-5a78-4a2f-aa21-86f869640fe4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -103,7 +103,7 @@
 				"auth": {
 					"type": "bearer",
 					"bearer": {
-						"token": "e4ee7b98d1f258c180054ecc6ebad60342e92140ece57b379b1c64a3df70d749"
+						"token": "c18118c5232ad9dba4ef76bc8771fbc39e353321230fa7cd2629980556e3746a"
 					}
 				},
 				"method": "POST",
@@ -123,7 +123,7 @@
 		},
 		{
 			"name": "GetAllOrder",
-			"_postman_id": "1ae5b0bb-972f-42fa-b30c-ea6548bc93e6",
+			"id": "1ae5b0bb-972f-42fa-b30c-ea6548bc93e6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -151,7 +151,7 @@
 		},
 		{
 			"name": "GetAnOrder",
-			"_postman_id": "ee56e95e-11a7-41c7-ad65-2db82d5f76b1",
+			"id": "ee56e95e-11a7-41c7-ad65-2db82d5f76b1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -170,7 +170,7 @@
 		},
 		{
 			"name": "UpdateAnOrder",
-			"_postman_id": "1e254fe3-6d75-4458-a5d8-a06f8afcba24",
+			"id": "1e254fe3-6d75-4458-a5d8-a06f8afcba24",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -198,7 +198,7 @@
 		},
 		{
 			"name": "DeleteOrder",
-			"_postman_id": "1a40d71b-b6ab-44fd-b81b-7711ff77b145",
+			"id": "1a40d71b-b6ab-44fd-b81b-7711ff77b145",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
